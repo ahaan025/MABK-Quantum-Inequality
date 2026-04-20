@@ -1,6 +1,7 @@
 **Qubit MABK Inequality Violation (Quantum Computing)**
 
 *THIS PROJECT WAS DONE FOR MY RESEARCH INTERNSHIP AT THE CAMBRIDGE CENTRE OF INTERNATIONAL RESEARCH*
+
 This project demonstrates the violation of the Mermin–Ardehali–Belinskii–Klyshko (MABK) inequality using multi-qubit quantum circuits. It simulates entangled states and evaluates expectation values that exceed classical bounds, highlighting non-local correlations in quantum mechanics.
 
 🧠 What this shows
